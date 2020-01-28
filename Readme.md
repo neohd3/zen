@@ -21,4 +21,3 @@ Response format:
 ]
 ```
 Response items have to be sorted by price ascending (tld with low price at first)
-
